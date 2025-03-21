@@ -3,7 +3,7 @@ Länken till vårt grupprojekt:
 
 https://github.com/Felicia-V03/Agile-Avengers-grupp.git
 
-Individuella reflektioner
+#Individuella reflektioner#
 
 Inledning
 
@@ -76,6 +76,7 @@ Beskriv en konkret lösning du föreslagit under projektet. Varför ansåg du at
 
 I början presenterade jag en idé om hur vår slutprodukt skulle kunna se ut. När mina gruppmedlemmar accepterade det mesta av den idén, började jag direkt skapa grundfilerna för att ge projektet en bra start.
 Jag föreslog att vi skulle använda en enkel navigeringsmeny istället för en mer avancerad lösning. Det var snabbare att implementera och fungerade bra.
+
 När jag arbetade med registrering och inloggning ville jag ha fler funktioner för att locka användare. Jag föreslog att registrerade kunder skulle få rabatter och att vi kunde skicka påminnelser om de varit inaktiva i tre veckor. Vid långvarig inaktivitet kunde konton raderas automatiskt. Dessutom föreslog jag att om en användare glömde sitt lösenord, skulle en engångskod skickas till deras registrerade e-postadress eller mobilnummer.  Även om en sådan typ av kundprofil hade varit bättre på lång sikt, var det viktigaste att vi hann klart i tid – och framför allt att vi först fick en enkel funktion som faktiskt fungerar.
 
 Ge minst två exempel på lösningar ni valde bort. Analysera varför ni avstod från dem. Hur påverkade det projektet? Kunde något ha gjorts annorlunda?
