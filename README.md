@@ -1,7 +1,7 @@
-# YYGS
+# YYGS-Agile-Avengers-Thapa
 Länken till vårt grupprojekt: 
 
-https://github.com/Felicia-V03/Agile-Avengers-grupp.git
+[Agil Avengers repo](https://github.com/Felicia-V03/Agile-Avengers-grupp.git)
 
 # Individuella reflektioner
 
